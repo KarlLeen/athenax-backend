@@ -17,6 +17,7 @@ This document outlines the backend design for the **HackX Buildathon Platform**,
 ## Project Architecture
 This backend is structured for scalability and easy collaboration.
 
+```
 athenax-backend/
 ├── app/
 │   ├── api/             # API route definitions (e.g., hackathons, users, projects)
@@ -37,6 +38,7 @@ athenax-backend/
 ├── requirements.txt     # Python project dependencies
 ├── README.md            # This project documentation
 └── start.sh             # Shell script to run the application
+```
 
 ---
 
